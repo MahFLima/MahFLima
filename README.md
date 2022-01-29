@@ -8,6 +8,6 @@ Atualmente estudo Front-end através de Bootcamps, cursos e livros. Estou aprend
 
 Além também das bibliotecas e frameworks: Bootstrap, Angular, React.
 
-Back-end 💻 🔙 PHP Node.js TypeScript MySQL .NET C# Java
+Back-end 💻 🔙  Node.js MySQL PostgreSQL
 
-Para o desenvolvimento Back-end estou aprendo as tecnologias: PHP, Node.js, TypeScript, MySQL, .NET, C#, Java.
+Para o desenvolvimento Back-end estou aprendo as tecnologias:  Node.js, MySQL.
