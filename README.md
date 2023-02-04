@@ -24,7 +24,7 @@
 
 ### Hard skills 💻 🆙
 
-Front-end 💻 🔜 HTML5 CSS JavaScript Bootstrap Angular.js ReactJS
+Front-end 💻 🔜 HTML5 CSS JavaScrip, ReactJS, Typescript
 
 - Atualmente estudo Front-end através de Bootcamps, cursos e livros. Estou desenvolvendo aplicações utilizando as linguagens: HTML, CSS, JavaScript.
 
